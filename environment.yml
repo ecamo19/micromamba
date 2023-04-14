@@ -1,0 +1,15 @@
+name: spatial_random_forest
+channels:
+- conda-forge
+- r
+- ecamo19
+- base
+- bioconda
+dependencies:
+- gpboost=0.8.0.1
+- radian=0.6.4
+- python=3.7
+- snakemake=7.19.1
+- notebook=6.5.2
+- matplotlib=3.5
+
